@@ -1,0 +1,8 @@
+{
+    "dbPort": 3306,
+    "dbServerIP": "127.0.0.1",
+    "dbName": "AgeRoyale",
+    "dbUsername": "root",
+    "dbPassword": "123456aA",
+    "serverCommunicationPort": 24321
+}
